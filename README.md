@@ -1,7 +1,8 @@
-## About
+### Bulk-spatiotemporal vortex correspondence in gyromagnetic zero-index media
 
-Data of Figs.2c,e,g, Figs.3b-e, Fig4e in the main text and Extended Data Figs.2b,d, Figs.3a-d, Figs.5a-c, and Figs.6c-e in the Extended Data. 
+This repository contains data of paper 'Bulk-spatiotemporal vortex correspondence in gyromagnetic zero-index media, including Figs.2c,e,g, Figs.3b-e, Fig4e in the main text and Extended Data Figs.2b,d, Figs.3a-d, Figs.5a-c, and Figs.6c-e.
 
+## Description of the data files
 
 
 | Data Files                                                   | Descriptions                                                 | Details                                                      |
